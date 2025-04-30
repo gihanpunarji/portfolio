@@ -49,7 +49,7 @@ const contactForm = document.getElementById('contactForm');
                 contactForm.reset();
             } catch (error) {
                 console.error('Error opening email client:', error);
-                alert('There was an error opening your email client. Please try again or contact us directly at info@rasilcobakers.com');
+                alert('There was an error opening your email client. Please try again or contact us directly at gihanpunarji@gmail.com');
             }
         });
     }
